@@ -1,0 +1,9 @@
+PhuKienDienThoai/obj/*
+PhuKienDienThoai/bin/*
+PayPalCore/obj/*
+PayPalCore/bin/*
+.vs/*
+.vscode/*
+PhuKienDienThoai/Data/Migrations/*
+Error.log
+appsettings.json
